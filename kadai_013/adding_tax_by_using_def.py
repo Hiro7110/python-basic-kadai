@@ -13,3 +13,5 @@ def add_tax (price):
   total = price + tax
 
   print(f"The total cost is {total} yen.")
+
+add_tax(500)
